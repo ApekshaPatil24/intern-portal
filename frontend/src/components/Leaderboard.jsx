@@ -7,7 +7,7 @@ function Leaderboard() {
   const [leaders, setLeaders] = useState([]);
 
   useEffect(() => {
-    axios.get('http://localhost:5000/api/leaderboard')
+    axios.get('https://intern-portal-bpnp.onrender.com/api/leaderboard')
       .then(res => setLeaders(res.data))
       .catch(err => console.error(err));
   }, []);

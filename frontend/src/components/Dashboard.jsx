@@ -17,7 +17,7 @@ function Dashboard() {
       return;
     }
 
-    axios.get('http://localhost:5000/api/intern')
+    axios.get('https://intern-portal-bpnp.onrender.com/api/intern')
       .then(res => setData(res.data))
       .catch(err => console.error(err));
   }, [username, navigate]);
