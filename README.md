@@ -1,4 +1,4 @@
-# 📚 Intern Dashboard Portal
+<img width="1897" height="910" alt="image" src="https://github.com/user-attachments/assets/f4cd528c-8de1-4e2c-9b7e-b968fdb667b6" /># 📚 Intern Dashboard Portal
 
 A modern and responsive full-stack web application to manage internships, built using **React**, **Tailwind CSS**, **Node.js**, and **Express**.
 
@@ -117,6 +117,11 @@ Add environment variables in Render dashboard.
 ⚡ Dynamic and responsive UI
 
 🧠 Smooth user experience with animations
+
+📸 Screenshots:
+Login Page: <img width="1897" height="910" alt="ss1-intern" src="https://github.com/user-attachments/assets/ebc10192-5661-48eb-b4cb-224c47f63995" />
+Dashboard Page: <img width="1896" height="910" alt="ss2-intern" src="https://github.com/user-attachments/assets/08be68ca-769e-4af8-8d1b-cef0783cb098" />
+Leaderboard Page : <img width="1896" height="912" alt="ss3-intern" src="https://github.com/user-attachments/assets/db36e809-e429-4129-8194-77e4530b8402" />
 
 Author
 Apeksha Patil
